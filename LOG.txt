@@ -1,0 +1,8 @@
+MOTOR1: doing nothing as always at Sat Nov 13 14:27:45 2021
+MOTOR2: doing nothing as always at Sat Nov 13 14:27:46 2021
+MOTOR1: doing nothing as always at Sat Nov 13 14:27:57 2021
+MOTOR2: doing nothing as always at Sat Nov 13 14:28:01 2021
+MOTOR1: doing nothing as always at Sat Nov 13 14:29:10 2021
+MOTOR2: doing nothing as always at Sat Nov 13 14:29:13 2021
+MOTOR1: doing nothing as always at Sat Nov 13 14:29:25 2021
+MOTOR2: doing nothing as always at Sat Nov 13 14:29:28 2021
